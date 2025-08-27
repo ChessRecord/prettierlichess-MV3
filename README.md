@@ -1,4 +1,4 @@
-# Prettier Lichess (MV3)  
+<h1 align="center">Prettierlichess</h1> 
 *It's Lichess, but prettier. Updated to Manifest V3.*  
 
 This is a **ready-to-use continuation** of Prettier Lichess, updated for Manifest V3.  
