@@ -2,19 +2,19 @@
 *It's Lichess, but prettier. Updated to Manifest V3.*  
 
 This is a **ready-to-use continuation** of Prettier Lichess, updated for Manifest V3.  
-No build tools — just download, extract, and load as an extension.  
+No build tools, no npm — just download, extract, and load as an extension.  
 
 ## 🚀 Installation  
 
 ### Chrome / Edge (MV3)  
-1. [Download the latest release](#) (zip).  
+1. [Download the latest release](https://github.com/ChessRecord/prettierlichess-MV3/archive/refs/heads/main.zip).  
 2. Extract the folder.  
 3. Go to `chrome://extensions/`.  
 4. Enable **Developer mode**.  
 5. Click **Load unpacked** and select the extracted folder.  
 
 ### Firefox  
-1. [Download the latest release](#) (zip).  
+1. [Download the latest release](https://github.com/ChessRecord/prettierlichess-MV3/archive/refs/heads/main.zip).  
 2. Extract the folder.  
 3. Go to `about:debugging#/runtime/this-firefox`.  
 4. Click **Load Temporary Add-on** and select `manifest.json` inside the extracted folder.  
